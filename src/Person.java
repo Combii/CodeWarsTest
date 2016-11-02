@@ -4,7 +4,7 @@
 public class Person {
     public int age;
     public String name;
-    public String genderrr;
+    public String gender;
 
     public Person(){
         this(null, 0, null);
