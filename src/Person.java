@@ -3,8 +3,8 @@
  */
 public class Person {
 
-    public int age2;
-    public String n2ame;
+    public int age;
+    public String name;
     public String gender;
 
     public Person(){
