@@ -2,7 +2,10 @@
  * Created by David Stovlbaek on 13/10/16.
  */
 public class Person {
+
     public int age83;
+    public int age36;
+    
     public String name;
     public String gender;
 
