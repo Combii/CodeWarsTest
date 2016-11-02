@@ -3,8 +3,7 @@
  */
 public class Person {
 
-    public int age2;
-    public int ageeeeeee;
+    public int age;
     public String name;
     public String gender;
 
